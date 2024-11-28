@@ -23,3 +23,6 @@ This project analyzes and visualizes weekly death trends in the United States us
 ## Future Improvements  
 - Incorporate demographic-level data for deeper insights.  
 - Explore forecasting models for predicting future trends.  
+
+## References
+Centers for Disease Control and Prevention (CDC). (2023). Weekly Death Trends in the United States. Retrieved from https://covid.cdc.gov/covid-data-tracker/#trends_weeklydeaths_select_00.
